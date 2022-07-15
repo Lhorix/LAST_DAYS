@@ -1,0 +1,235 @@
+@font-face {
+	font-family: Orbitron Light;
+	src: url('fonts/Orbitron Light.ttf');
+}
+
+@font-face {
+	font-family: Orbitron Bold;
+	src: url('fonts/Orbitron Bold.ttf');
+}
+
+@font-face {
+	font-family: OpenSans;
+	src: url('fonts/OpenSans Bold.ttf');
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	background: url('images/site/main_background.png');
+	color: #CEC;
+	font-size: 14px;
+}
+
+p {
+	margin-top: 13px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: #4B4;
+}
+
+
+h1 {
+	font-family: Orbitron Bold, sans-serif;
+	font-size: 36px;
+	text-align: center;
+	margin: 10px;
+}
+
+h2 {
+	font-family: Orbitron Light, sans-serif;
+	font-size: 28px;
+	text-align: center;
+	margin: 10px;
+}
+
+h3 {
+	font-family: Orbitron Light, sans-serif;
+	font-size: 22px;
+	margin: 10px 0;
+	text-decoration: underline;
+}
+
+
+
+#container {
+	font-family: OpenSans, sans-serif;
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+
+#header {
+	text-align: center;
+	margin: 5px;
+}
+
+
+
+#menu ul {
+	background: url('images/site/menu_background.png');
+	border: 5px ridge #4B4;
+	margin: 0 0 10px;
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+}
+
+#menu li {
+	display: inline;
+	margin: 0 50px;
+}
+
+#menu a {
+	color: #CEC;
+	font-family: Orbitron Bold, sans-serif;
+	font-size: 20px;
+}
+
+
+
+#nav ul {
+	background: url('images/site/menu_background.png');
+	border: 5px ridge #4B4;
+	list-style-type: none;
+	display: block;
+	margin: 0 0 10px;
+}
+
+#nav ol {
+	display: block;
+	margin: 8px;
+	text-align: center;
+}
+
+#nav li {
+	display: inline-block;
+	width: 15%;
+}
+
+#nav a {
+	color: #8C8;
+	font-family: Orbitron Bold, sans-serif;
+	font-size: 16px;
+}
+
+
+
+#content {
+	background: url('images/site/content_background.png');
+	border: 5px ridge #4B4;
+	padding: 15px;
+}
+
+#content ul {
+	list-style-position: inside;
+	list-style-type: square;
+}
+
+#content ol {
+	padding-left: 2rem;
+	list-style-type: circle;
+}
+
+#content hr {
+	border-top: 5px ridge #4B4;
+	margin: 25px 0 15px;
+}
+
+#content img {
+	border: 5px ridge #4B4;
+	width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+
+#content table {
+	border: 5px ridge #4B4;
+	text-align: center;
+	border-spacing: 3px;
+}
+
+#content th {
+	font-family: Orbitron Bold, sans-serif;
+	font-weight: normal;
+	background: url('images/site/menu_background.png');
+	color: #4B4;
+	padding: 5px;
+}
+
+#content td {
+	background: url('images/site/menu_background.png');
+	padding: 5px;
+}
+
+
+
+#credits {
+	font-family: Orbitron Bold, sans-serif;
+	width: 60%;
+	border: 5px ridge #4B4;
+	background: url('images/site/menu_background.png');
+	padding: 10px;
+}
+
+
+
+#footer {
+	font-family: Orbitron Bold, sans-serif;
+	padding: 15px;
+}
+
+
+
+.source {
+	text-align: right;
+	font-style: italic;
+}
+
+.audio {
+	font-size: 16px;
+	font-family: Orbitron Bold, sans-serif;
+	border: 5px ridge #4B4;
+	background: url('images/site/menu_background.png');
+	width: 420px;
+	padding: 10px;
+}
+
+.greener {
+	color: #8C8;
+	text-decoration: underline;
+}
+
+.greener b {
+	font-style: italic;
+}
+
+.record {
+	border: 5px ridge #4B4;
+	background: url('images/site/menu_background.png');
+	padding: 10px;
+}
+
+.wip {
+	font-size: 16px;
+	font-family: Orbitron Bold, sans-serif;
+	color: #ECC;
+	border: 5px ridge #D44;
+	background: url('images/site/error_background.png');
+	width: 420px;
+	padding: 10px;
+}
