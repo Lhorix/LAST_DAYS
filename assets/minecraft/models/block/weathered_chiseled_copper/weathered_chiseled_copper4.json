@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/weathered_chiseled_copper/weathered_chiseled_copper4_top",
+    "side": "minecraft:block/weathered_chiseled_copper/weathered_chiseled_copper4"
+  }
+}
