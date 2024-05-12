@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/copper_grate/copper_grate", "weight": 1 },
+			{ "model": "block/copper_grate/copper_grate2", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate2", "z": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate2_mirrored", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate2_mirrored", "x": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate3", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate3", "z": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate3_mirrored", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate3_mirrored", "x": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate4", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate4", "z": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate4_mirrored", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate5", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate5", "z": 180, "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate5_mirrored", "weight": 4 },
+			{ "model": "block/copper_grate/copper_grate5_mirrored", "z": 180, "weight": 4 }
+		]
+	}
+}

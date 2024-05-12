@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/copper_grate/copper_grate"
+    }
+}
