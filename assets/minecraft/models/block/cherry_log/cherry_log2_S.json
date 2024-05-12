@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "minecraft:block/cherry_log_top",
+    "down": "minecraft:block/cherry_log_top",
+    "north": "minecraft:block/cherry_log/cherry_log",
+    "south": "minecraft:block/cherry_log/cherry_log2",
+    "east": "minecraft:block/cherry_log/cherry_log",
+    "west": "minecraft:block/cherry_log/cherry_log"
+  }
+}

@@ -1,7 +1,14 @@
 {
 	"variants": {
 		"axis=x": [
-			{ "model": "block/chiseled_copper", "weight": 10, "x": 90, "y": 90 }
+			{ "model": "block/bamboo_block/bamboo_block", "weight": 10, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block2", "weight": 10, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block3", "weight": 10, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block4", "weight": 10, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block6", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block7", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block8", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/bamboo_block/bamboo_block9", "weight": 1, "x": 90, "y": 90 }
 		],
 		"axis=y": [
 			{ "model": "block/bamboo_block/bamboo_block", "weight": 10 }, 

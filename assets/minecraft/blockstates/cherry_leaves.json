@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/cherry_leaves/cherry_leaves", "weight": 50 },
+			{ "model": "block/cherry_leaves/cherry_leaves2", "weight": 1 },   
+			{ "model": "block/cherry_leaves/cherry_leaves3", "weight": 1 },
+			{ "model": "block/cherry_leaves/cherry_leaves4", "weight": 1 },   
+			{ "model": "block/cherry_leaves/cherry_leaves5", "weight": 1 },
+			{ "model": "block/cherry_leaves/cherry_leaves6", "weight": 1 }
+		]
+	}
+}
