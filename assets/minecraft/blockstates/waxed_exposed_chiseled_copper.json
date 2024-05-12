@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/exposed_chiseled_copper/exposed_chiseled_copper", "weight": 1 },
+			{ "model": "block/exposed_chiseled_copper/exposed_chiseled_copper2", "weight": 1 },
+			{ "model": "block/exposed_chiseled_copper/exposed_chiseled_copper3", "weight": 1 },
+			{ "model": "block/exposed_chiseled_copper/exposed_chiseled_copper4", "weight": 1 }
+		]
+	}
+}

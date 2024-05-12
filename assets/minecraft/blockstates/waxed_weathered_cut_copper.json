@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/weathered_cut_copper/weathered_cut_copper", "weight": 1 },
+			{ "model": "block/weathered_cut_copper/weathered_cut_copper2", "weight": 1 },
+			{ "model": "block/weathered_cut_copper/weathered_cut_copper3", "weight": 1 },
+			{ "model": "block/weathered_cut_copper/weathered_cut_copper4", "weight": 1 }
+		]
+	}
+}

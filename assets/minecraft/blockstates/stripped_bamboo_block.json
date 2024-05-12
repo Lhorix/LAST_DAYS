@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"axis=x": [
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block2", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block3", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block4", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block5", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block6", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block7", "weight": 1, "x": 90, "y": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block8", "weight": 1, "x": 90, "y": 90 }
+		],
+		"axis=y": [
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block2", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block3", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block4", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block5", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block6", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block7", "weight": 1 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block8", "weight": 1 }
+		],
+		"axis=z": [
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block", "weight": 1, "x": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block2", "weight": 1, "x": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block3", "weight": 1, "x": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block4", "weight": 1, "x": 90 },
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block5", "weight": 1, "x": 90 },
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block6", "weight": 1, "x": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block7", "weight": 1, "x": 90 }, 
+			{ "model": "block/stripped_bamboo_block/stripped_bamboo_block8", "weight": 1, "x": 90 }
+		]
+	}
+}

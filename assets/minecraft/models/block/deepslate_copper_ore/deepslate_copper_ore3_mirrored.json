@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_mirrored_all",
+    "textures": {
+        "all": "block/deepslate_copper_ore/deepslate_copper_ore3"
+    }
+}
