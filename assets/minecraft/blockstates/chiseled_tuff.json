@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/chiseled_tuff/chiseled_tuff", "weight": 1 },
+			{ "model": "block/chiseled_tuff/chiseled_tuff2", "weight": 1 },
+			{ "model": "block/chiseled_tuff/chiseled_tuff3", "weight": 2 },
+			{ "model": "block/chiseled_tuff/chiseled_tuff4", "weight": 2 }
+		]
+    }
+}

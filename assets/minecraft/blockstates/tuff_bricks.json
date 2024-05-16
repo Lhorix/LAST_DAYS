@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/tuff_bricks/tuff_bricks", "weight": 20 },
+			{ "model": "block/tuff_bricks/tuff_bricks2", "weight": 1 },
+			{ "model": "block/tuff_bricks/tuff_bricks2a", "weight": 1 },
+			{ "model": "block/tuff_bricks/tuff_bricks2b", "weight": 1 },
+			{ "model": "block/tuff_bricks/tuff_bricks3", "weight": 20 },
+			{ "model": "block/tuff_bricks/tuff_bricks3a", "weight": 20 },
+			{ "model": "block/tuff_bricks/tuff_bricks3b", "weight": 20},			
+			{ "model": "block/tuff_bricks/tuff_bricks4", "weight": 20 },
+			{ "model": "block/tuff_bricks/tuff_bricks5", "weight": 1 },
+			{ "model": "block/tuff_bricks/tuff_bricks6", "weight": 10},
+			{ "model": "block/tuff_bricks/tuff_bricks6a", "weight": 10},
+			{ "model": "block/tuff_bricks/tuff_bricks6b", "weight": 10},
+			{ "model": "block/tuff_bricks/tuff_bricks7", "weight": 10 },
+			{ "model": "block/tuff_bricks/tuff_bricks7a", "weight": 10 },
+			{ "model": "block/tuff_bricks/tuff_bricks7b", "weight": 10}
+		]
+    }
+}
