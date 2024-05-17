@@ -16,3 +16,10 @@
 Axe Stripping sound effect - Pitched 50% down: Metal Object Dropping 01.wav by Tim_Verberne -- https://freesound.org/s/537752/ -- License: Creative Commons 0
 
 Bamboo Block - Pitched 50% down: Foley_WoodSaw_FlickBoing.wav by MrFossy -- https://freesound.org/s/523283/ -- License: Creative Commons 0
+
+Wither Skeleton:
+	- door wood hits impacts small break through clumsy metal thing dall.wav by kyles -- https://freesound.org/s/450793/ -- License: Creative Commons 0
+	- Servo noises by peridactyloptrix -- https://freesound.org/s/188821/ -- License: Creative Commons 0
+	- Hydraulic, Office Chair.wav by batuhansezer -- https://freesound.org/s/432253/ -- License: Attribution 4.0
+	- Metal Steps by Phil25 -- https://freesound.org/s/208101/ -- License: Creative Commons 0
+	- Camera lens servo by humanoide9000 -- https://freesound.org/s/336556/ -- License: Attribution 4.0
