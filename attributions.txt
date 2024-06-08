@@ -17,6 +17,16 @@ Axe Stripping sound effect - Pitched 50% down: Metal Object Dropping 01.wav by T
 
 Bamboo Block - Pitched 50% down: Foley_WoodSaw_FlickBoing.wav by MrFossy -- https://freesound.org/s/523283/ -- License: Creative Commons 0
 
+Cherry Wood:
+	- Hatchet chopping wood by Ruben_Uitenweerde -- https://freesound.org/s/486170/ -- License: Attribution 3.0
+	- wood board hit with metal.wav by alec_mackay -- https://freesound.org/s/463662/ -- License: Creative Commons 0
+	- Impacts_Splatter_Watermelon_001.wav by duckduckpony -- https://freesound.org/s/204024/ -- License: Attribution 4.0
+	- Impacts_Splatter_Watermelon_002.wav by duckduckpony -- https://freesound.org/s/204025/ -- License: Attribution 4.0
+	- Impacts_Splatter_Pineapple_001.wav by duckduckpony -- https://freesound.org/s/204026/ -- License: Attribution 4.0
+	- Impacts_Splatter_Pineapple_002.wav by duckduckpony -- https://freesound.org/s/204027/ -- License: Attribution 4.0
+	- Impacts_Splatter_Orange_001.wav by duckduckpony -- https://freesound.org/s/204040/ -- License: Attribution 4.0
+	- Impacts_Slushy_Orange_002.wav by duckduckpony -- https://freesound.org/s/204041/ -- License: Attribution 4.0
+
 Wither Skeleton:
 	- door wood hits impacts small break through clumsy metal thing dall.wav by kyles -- https://freesound.org/s/450793/ -- License: Creative Commons 0
 	- Servo noises by peridactyloptrix -- https://freesound.org/s/188821/ -- License: Creative Commons 0
