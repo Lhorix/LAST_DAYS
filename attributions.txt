@@ -24,6 +24,7 @@ Cave Sounds:
 	- R25-09-Big Sustained Crash - Wood and Metal.wav by craigsmith -- https://freesound.org/s/487130/ -- License: Creative Commons 0
 	- Thrashing.wav by mccormick_iain -- https://freesound.org/s/371116/ -- License: Attribution 3.0
 	- Washy Radio Interference - Industrial SFX by 9voltplasma -- https://freesound.org/s/724710/ -- License: Creative Commons 0
+	- The-prepared-rats_Apocalyptic-Radio_by_OnlyTheGhosts.wav by OnlyTheGhosts -- https://freesound.org/s/252652/ -- License: Attribution 4.0
 	
 Cherry Wood:
 	- Hatchet chopping wood by Ruben_Uitenweerde -- https://freesound.org/s/486170/ -- License: Attribution 3.0
