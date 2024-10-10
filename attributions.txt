@@ -36,6 +36,13 @@ Cherry Wood:
 	- Impacts_Splatter_Orange_001.wav by duckduckpony -- https://freesound.org/s/204040/ -- License: Attribution 4.0
 	- Impacts_Slushy_Orange_002.wav by duckduckpony -- https://freesound.org/s/204041/ -- License: Attribution 4.0
 
+Deepslate:
+	- thin metal slamming by satanicupsman -- https://freesound.org/s/184720/ -- License: Creative Commons 0
+	- boots on aluminum ladder 01 by Eelke -- https://freesound.org/s/462598/ -- License: Attribution 4.0
+
+Tuff:
+	- Footsteps on Metal by IENBA -- https://freesound.org/s/698697/ -- License: Creative Commons 0
+
 Wither Skeleton:
 	- door wood hits impacts small break through clumsy metal thing dall.wav by kyles -- https://freesound.org/s/450793/ -- License: Creative Commons 0
 	- Servo noises by peridactyloptrix -- https://freesound.org/s/188821/ -- License: Creative Commons 0
